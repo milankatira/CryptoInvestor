@@ -1,0 +1,27 @@
+{
+  "name": "cryptoinvestor",
+  "version": "1.0.0",
+  "description": "Let us assume you are a crypto investor. You have made transactions over a period of time which is logged in a CSV file. Write a command line program that does the following",
+  "main": "fecthCyptoData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaysethi8789/CryptoInvestor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajaysethi8789/CryptoInvestor/issues"
+  },
+  "homepage": "https://github.com/ajaysethi8789/CryptoInvestor#readme",
+  "dependencies": {
+    "await": "^0.2.6",
+    "parser": "^0.1.4",
+    "promise": "^8.3.0",
+    "request": "^2.88.2",
+    "yargs": "^17.6.2"
+  }
+}
